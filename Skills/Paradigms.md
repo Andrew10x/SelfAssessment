@@ -13,19 +13,19 @@
   - Concurrent computing: 🎓 known
   - Asyncronous programming: 👂 heard
   - Parallel programming: 🖐️ used
-  - Reactive programming
+  - Reactive programming: 👂 heard
   - FRP (Functional-reactive)
-  - Automata-based programming
+  - Automata-based programming: 👂 heard
   - Domain-specific languages: 🖐️ used
-  - Multi-paradigm programming
-  - Metaprogramming
+  - Multi-paradigm programming: 🎓 known
+  - Metaprogramming: 👂 heard
   - Actor model
 - OOP basics
   - constructor: 🖐️ used
   - new: 🖐️ used
   - Static method: 🖐️ used
   - Method: 🖐️ used
-  - Async method
+  - Async method: 🖐️ used
   - Getters, Setters: 🖐️ used
   - Public fields: 🎓 known
   - Private fields: 🖐️ used
@@ -43,24 +43,24 @@
   - Reflection
 - Patterns
   - Singleton: 🖐️ used
-  - Factory Method: 👂 heard
-  - Abstract Factory: 👂 heard
-  - Adapter: 👂 heard
-  - Observer: 👂 heard
-  - Strategy: 👂 heard
+  - Factory Method: 🎓 known
+  - Abstract Factory: 🎓 known
+  - Adapter: 🎓 known
+  - Observer: 🎓 known
+  - Strategy: 🎓 known
   - Facade: 🎓 known
-  - Proxy
-  - Chain of Responsibility: 👂 heard
+  - Proxy: 👂 heard
+  - Chain of Responsibility: 🎓 known
   - Command
-  - Iterator
+  - Iterator: 👂 heard
   - State: 🖐️ used
-  - Bridge: 👂 heard
-  - Builder: 👂 heard
-  - Prototype
-  - Composite
-  - Decorator
-  - Flyweight
+  - Bridge: 🎓 known
+  - Builder: 🎓 known
+  - Prototype: 🎓 known
+  - Composite: 🎓 known
+  - Decorator: 🎓 known
+  - Flyweight: 👂 heard
   - Mediator
   - Memento
   - Template Method
-  - Visitor
+  - Visitor: 🎓 known

@@ -1,7 +1,7 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
+  - Event loop: 👂 heard
   - try..catch: 🖐️ used
   - Non-blocking: 🎓 known
   - Async I/O: 🎓 known
@@ -10,8 +10,8 @@
   - CAS operations
   - epoll
   - kqueue
-  - Completion ports
-  - Event ports
+  - Completion ports: 👂 heard
+  - Event ports: 👂 heard
   - libuv
   - Race conditions: 👂 heard
   - Dead locks: 🎓 known
@@ -20,7 +20,7 @@
   - Parallel programming: 🖐️ used
   - Actor Model
   - Thread: 🖐️ used
-  - Process
+  - Process: 👂 heard
 - Async contracts
   - Callbacks: 🎓 known
   - Callback-last-error-first: 🎓 known
@@ -29,9 +29,9 @@
   - Async/await: 🎓 known
   - Future: 🎓 known
   - Deferred
-  - Sync generator
-  - Async Generator
-  - Async Iterator
+  - Sync generator: 👂 heard
+  - Async Generator: 👂 heard
+  - Async Iterator: 👂 heard
   - Event: 🎓 known
   - Coroutine
   - Goroutine
@@ -41,11 +41,11 @@
   - Middleware: 🎓 known
   - Locks: 🖐️ used
 - Async adapters and utils
-  - callbackify
-  - promisify
-  - asyncify
-  - callbacks compose
-  - async compose
+  - callbackify: 👂 heard
+  - promisify: 👂 heard
+  - asyncify: 👂 heard
+  - callbacks compose: 👂 heard
+  - async compose: 👂 heard
 - Async abstractions interfaces
   - EventEmitter
   - Observable/Observer
@@ -59,9 +59,9 @@
   - Mutex: 🎓 known
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
-  - setImmediate
-  - nextTick
+  - Timers: 🎓 known
+  - setImmediate: 🎓 known
+  - nextTick: 🎓 known
   - AbortController
   - AbortSignal
   - Promise unhandled rejection
@@ -71,22 +71,22 @@
   - Atomics: 🎓 known
   - High resolution clock
   - Callback hell: 🎓 known
-  - Promise hell
-  - ref() and unref()
+  - Promise hell: 👂 heard
+  - ref() and unref(): 👂 heard
   - Error handling in async code
   - Better stack traces with return await
   - JSON: streaming serialization
-  - promisify
-  - callbackify
-  - AsyncLocalStorage
-  - AsyncResource
+  - promisify: 👂 heard
+  - callbackify: 👂 heard
+  - AsyncLocalStorage: 👂 heard
+  - AsyncResource: 👂 heard
 - Techniques
-  - async.js library
-  - RxJS library
+  - async.js library: 👂 heard
+  - RxJS library: 👂 heard
   - Async composition
   - Promise.all: 👂 heard
-  - Promise.allSettled
-  - Promise.race
+  - Promise.allSettled: 👂 heard
+  - Promise.race: 👂 heard
   - Promise.any: 👂 heard
   - Web Locks API
   - IPC

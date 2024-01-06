@@ -13,7 +13,7 @@
   - procedure: 🖐️ used
   - method: 🖐️ used
   - class: 🖐️ used
-  - prototype
+  - prototype: 🎓 known
   - event: 🖐️ used
   - type: 🖐️ used
   - primitive types: 🖐️ used
@@ -23,10 +23,10 @@
   - code block: 🖐️ used
   - conditions: 🖐️ used
   - loops: 🖐️ used
-  - assignment
-  - regular expression
+  - assignment: 🎓 known
+  - regular expression: 🖐️ used
   - interface: 🖐️ used
-  - contract
+  - contract: 👂 heard
   - module: 🖐️ used
   - call stack
 - Functions
@@ -63,10 +63,10 @@
   - collection: 🖐️ used
   - set: 🖐️ used
   - hash table: 🖐️ used
-  - linked list
-  - doubly list
-  - unrolled list
-  - circular list
+  - linked list: 🖐️ used
+  - doubly list: 🖐️ used
+  - unrolled list: 👂 heard
+  - circular list: 👂 heard
   - queue: 🖐️ used
   - stack: 🖐️ used
   - deque: 🖐️ used
@@ -75,28 +75,28 @@
   - iterator: 🎓 known
   - mutable state: 🖐️ used
   - immutable state: 🖐️ used
-  - serialization
+  - serialization: 👂 heard
   - string parsing: 🖐️ used
 - Process & style
   - compiler: 🖐️ used
   - transpiler
   - linter: 🖐️ used
-  - polyfill
+  - polyfill: 🎓 known
   - debugger: 🖐️ used
   - garbage collection
-  - refactoring
-  - code review
+  - refactoring: 🎓 known
+  - code review: 🎓 known
   - antipatterns: 🎓 known
   - paradigm: 🖐️ used
   - algorithm: 🖐️ used
-  - magic numbers
+  - magic numbers: 🎓 known
   - hardcode: 🎓 known
   - complexity: 🎓 known
   - decomposition
   - spaghetti: 🎓 known
-  - silver bullet
-  - not invented here
-  - dead code
+  - silver bullet: 🎓 known
+  - not invented here: 🎓 known
+  - dead code: 🎓 known
   - unreachable code: 🎓 known
   - duplicate code: 🎓 known
   - exception: 🖐️ used
