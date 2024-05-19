@@ -13,12 +13,12 @@
   - ...rest
   - typeof: 🖐️ used
   - destructuring
-  - generator
-  - iterator
-  - async generator
-  - async iterator
-  - chaining
-  - optional chaining
+  - generator: 👂 heard
+  - iterator: 👂 heard
+  - async generator: 👂 heard
+  - async iterator: 👂 heard
+  - chaining: 👂 heard
+  - optional chaining: 👂 heard
   - IIFE
   - global: 🖐️ used
   - globalThis
@@ -38,8 +38,8 @@
   - delete
   - in
   - super: 🖐️ used
-  - Symbol
-  - Reflect
+  - Symbol: 👂 heard
+  - Reflect: 👂 heard
 - Statements
   - if: 🖐️ used
   - while: 🖐️ used
@@ -75,15 +75,15 @@
   - undefined: 🖐️ used
   - null: 🖐️ used
   - Proxy
-  - weak collections
+  - weak collections: 👂 heard
   - timers
-  - EventEmitter
+  - EventEmitter: 👂 heard
   - RegExp
-  - Date
+  - Date: 🖐️ used
   - BigInt: 🖐️ used
 - Infrastructure
   - V8: 🖐️ used
   - Node.js: 🖐️ used
   - npm: 🖐️ used
   - prettier: 🖐️ used
-  - MDN
+  - MDN: 👂 heard

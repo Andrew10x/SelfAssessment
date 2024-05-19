@@ -1,0 +1,94 @@
+## Databases
+
+- Theory and concepts
+  - Data types: 🖐️ used
+  - Performance tuning
+  - Migrations
+  - Schema versioning: 👂 heard
+  - Backup and recovery: 👂 heard
+  - Database scalability: 👂 heard
+  - Relational databases: 🖐️ used
+  - Key-value store
+  - Tuple store
+  - Graph databases: 👂 heard
+  - Object databases
+  - Column databases
+  - Navigational databases
+  - Hierarchical databases
+  - In-memory databases
+  - Inverted index
+  - Data control language (DCL): 👂 heard
+  - Data definition language (DDL): 🖐️ used
+  - Data manipulation language (DML): 🖐️ used
+  - Data query language (DQL): 🖐️ used
+- Relational
+  - Entity-Relationship Diagram: 🖐️ used
+  - Normal forms: 🖐️ used
+  - Indexing
+  - Primary keys: 🖐️ used
+  - Foreign keys: 🖐️ used
+  - Transactions: 🖐️ used
+  - Views
+  - Subqueries: 👂 heard
+  - Stored procedures: 🖐️ used
+  - SQL functions: 🖐️ used
+  - Materialized views
+  - Replications
+  - Virtualization
+- SQL
+  - `SELECT`: 🖐️ used
+  - `INSERT`: 🖐️ used
+  - `UPDATE`: 🖐️ used
+  - `DELETE`: 🖐️ used
+  - `LIMIT`
+  - `OFFSET`
+  - `ORDER BY`: 🖐️ used
+  - `GROUP BY`: 🖐️ used
+  - `HAVING`: 🖐️ used
+  - `EXISTS`: 🖐️ used
+  - `JOIN`: 🖐️ used
+  - `INNER JOIN`: 🖐️ used
+  - `LEFT JOIN`: 🖐️ used
+  - `RIGHT JOIN`: 🖐️ used
+  - `UNION`: 🖐️ used
+  - `DISTINCT`: 🖐️ used
+  - `WHERE`: 🖐️ used
+  - `LIKE`: 🖐️ used
+  - `IN`: 🖐️ used
+  - `BETWEEN`: 🖐️ used
+  - `CREATE TABLE`: 🖐️ used
+  - `ALTER TABLE`: 🖐️ used
+  - `DROP TABLE`: 🖐️ used
+  - `PRIMARY KEY`: 🖐️ used
+  - `FOREIGN KEY`: 🖐️ used
+  - `CHECK`
+  - `DEFAULT`: 🖐️ used
+  - `INDEX`
+  - `UNIQUE`: 🖐️ used
+  - `GRANT`: 🖐️ used
+  - `REVOKE`: 👂 heard
+  - `DENY`: 👂 heard
+  - `EXPLAIN`
+- Engines
+  - PostgreSQL: 🖐️ used
+  - Oracle: 👂 heard
+  - MySQL: 👂 heard
+  - MariaDB: 👂 heard
+  - MS SQL Server: 🖐️ used
+  - Redis
+  - Rabbit
+  - MongoDB: 👂 heard
+  - Memcached
+  - Riak
+  - DB2
+  - SQLite
+  - DynamoDB
+  - Firebase
+- Data engineering
+  - Data warehousing: 👂 heard
+  - Business intelligence
+  - Big data: 👂 heard
+  - Data analysis: 👂 heard
+  - AI tools
+  - Cloud databases: 👂 heard
+  - Data Visualization

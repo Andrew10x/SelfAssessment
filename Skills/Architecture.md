@@ -1,0 +1,100 @@
+## Architecture
+
+- Application structure
+  - Modularity: 🖐️ used
+  - Components: 🖐️ used
+  - Directories: 🖐️ used
+  - GRASP: 🎓 known
+  - SOLID: 🖐️ used
+  - GoF patterns: 🖐️ used
+  - CQS
+  - Leaking abstractions
+  - Multiparadigm code: 👂 heard
+  - Contract programming: 👂 heard
+  - Platform-agnostic: 🖐️ used
+  - Transport-agnostic
+  - Framework-agnostic
+  - Code coverage: 🎓 known
+  - Cohesion: 🎓 known
+  - Coupling: 🎓 known
+  - Cyclomatic complexity
+  - Reliability: 👂 heard
+  - Quality: 👂 heard
+  - Availability: 👂 heard
+  - Flexibility: 👂 heard
+  - Law of Demeter (LoD)
+- Application architecture
+  - Isolation between layer: 🎓 known
+  - Domain-specific language (DSL): 🖐️ used
+  - System vs applied code
+  - Multilayer approach: 👂 heard
+  - Hexagonal architecture: 👂 heard
+  - Separation of concerns (SoC)
+  - Metaprogramming: 👂 heard
+  - Inversion of control (IoC): 🎓 known
+  - Dependency injection (DI): 🎓 known
+  - Clean architecture: 🎓 known
+  - Domain-driven design (DDD): 👂 heard
+  - Pub/sub: 👂 heard
+  - Message brocker: 👂 heard
+  - Agent: 👂 heard
+  - Service locator: 👂 heard
+  - Message Queue (MQ): 👂 heard
+  - CQRS
+  - Event sourcing
+  - E-R data modeling: 🎓 known
+  - Entity-relationship diagram: 🖐️ used
+  - IDEF1X
+  - UML: 🖐️ used
+  - Work breakdown structure
+  - Budget estimation: 🎓 known
+  - Distributed systems: 👂 heard
+  - High-intensive computing: 👂 heard
+  - Load balancing: 🎓 known
+  - Gateways: 🎓 known
+  - On-premises
+  - IaaS: 🎓 known
+  - PaaS: 🎓 known
+  - SaaS: 🎓 known
+  - FaaS clouds: 👂 heard
+  - Serverless: 👂 heard
+  - Vendor lock-in
+  - Bus factor
+- Solution architecture
+  - A software requirements specification (SRS): 👂 heard
+  - Solution visions
+  - Solution capabilities
+  - System design
+  - Process modelling: 👂 heard
+  - Data modelling: 👂 heard
+  - Solution components
+  - Risk assessment: 👂 heard
+  - Non Functional Requirements (NFR): 🖐️ used
+  - Clouds: 🖐️ used
+  - BPMN
+  - Low-code: 👂 heard
+  - No-code: 👂 heard
+  - Metric: 👂 heard
+  - Metric abuse
+  - ACID
+  - CAP theorem
+  - Single source of truth (SSOT)
+- Enterprise architecture
+  - Understanding business needs: 👂 heard
+  - Enterprise strategy: 👂 heard
+  - Integration with subsystems: 👂 heard
+  - Enterprise vision: 👂 heard
+  - Enterprise capabilities: 👂 heard
+  - Project scope: 👂 heard
+  - Enterprise service bus
+  - Service-oriented architecture
+  - Microservices: 👂 heard
+  - Process choreography: 👂 heard
+  - Service orchestration: 👂 heard
+  - Data warehouse
+  - Business Intelligence
+  - OLAP
+  - OLTP
+  - Conways Law
+  - Quality assurance: 🖐️ used
+  - Engineering Hygiene
