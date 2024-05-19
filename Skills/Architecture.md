@@ -8,7 +8,7 @@
   - SOLID: 🖐️ used
   - GoF patterns: 🖐️ used
   - CQS
-  - Leaking abstractions
+  - Leaking abstractions: 👂 heard
   - Multiparadigm code: 👂 heard
   - Contract programming: 👂 heard
   - Platform-agnostic: 🖐️ used
@@ -17,7 +17,7 @@
   - Code coverage: 🎓 known
   - Cohesion: 🎓 known
   - Coupling: 🎓 known
-  - Cyclomatic complexity
+  - Cyclomatic complexity: 👂 heard
   - Reliability: 👂 heard
   - Quality: 👂 heard
   - Availability: 👂 heard
@@ -52,7 +52,7 @@
   - High-intensive computing: 👂 heard
   - Load balancing: 🎓 known
   - Gateways: 🎓 known
-  - On-premises
+  - On-premises: 🎓 known
   - IaaS: 🎓 known
   - PaaS: 🎓 known
   - SaaS: 🎓 known
@@ -64,21 +64,21 @@
   - A software requirements specification (SRS): 👂 heard
   - Solution visions
   - Solution capabilities
-  - System design
+  - System design: 🖐️ used
   - Process modelling: 👂 heard
   - Data modelling: 👂 heard
   - Solution components
   - Risk assessment: 👂 heard
   - Non Functional Requirements (NFR): 🖐️ used
   - Clouds: 🖐️ used
-  - BPMN
+  - BPMN: 🖐️ used
   - Low-code: 👂 heard
   - No-code: 👂 heard
   - Metric: 👂 heard
   - Metric abuse
-  - ACID
+  - ACID: 🖐️ used
   - CAP theorem
-  - Single source of truth (SSOT)
+  - Single source of truth (SSOT): 👂 heard
 - Enterprise architecture
   - Understanding business needs: 👂 heard
   - Enterprise strategy: 👂 heard
@@ -91,10 +91,10 @@
   - Microservices: 👂 heard
   - Process choreography: 👂 heard
   - Service orchestration: 👂 heard
-  - Data warehouse
-  - Business Intelligence
-  - OLAP
-  - OLTP
+  - Data warehouse: 👂 heard
+  - Business Intelligence: 👂 heard
+  - OLAP: 👂 heard
+  - OLTP: 👂 heard
   - Conways Law
   - Quality assurance: 🖐️ used
   - Engineering Hygiene

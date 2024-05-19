@@ -19,7 +19,7 @@
   - Domain-specific languages: 🖐️ used
   - Multi-paradigm programming: 🎓 known
   - Metaprogramming: 👂 heard
-  - Actor model
+  - Actor model: 🖐️ used
 - OOP basics
   - constructor: 🖐️ used
   - new: 🖐️ used
@@ -48,7 +48,7 @@
   - Adapter: 🎓 known
   - Observer: 🎓 known
   - Strategy: 🎓 known
-  - Facade: 🎓 known
+  - Facade: 🖐️ used
   - Proxy: 👂 heard
   - Chain of Responsibility: 🎓 known
   - Command

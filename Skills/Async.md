@@ -18,7 +18,7 @@
   - Live locks: 🎓 known
   - Concurrent programming: 🎓 known
   - Parallel programming: 🖐️ used
-  - Actor Model
+  - Actor Model: 🖐️ used
   - Thread: 🖐️ used
   - Process: 👂 heard
 - Async contracts
@@ -66,8 +66,8 @@
   - AbortSignal
   - Promise unhandled rejection
   - Promise double resolve
-  - child_process
-  - worker_threads
+  - child_process: 🎓 known
+  - worker_threads: 🖐️ used
   - Atomics: 🎓 known
   - High resolution clock
   - Callback hell: 🎓 known
@@ -75,7 +75,7 @@
   - ref() and unref(): 👂 heard
   - Error handling in async code
   - Better stack traces with return await
-  - JSON: streaming serialization
+  - JSON: streaming serialization: 🎓 known
   - promisify: 👂 heard
   - callbackify: 👂 heard
   - AsyncLocalStorage: 👂 heard
