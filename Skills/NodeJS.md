@@ -7,7 +7,7 @@
   - Event loop: phases: 🎓 known
   - Event loop: microtasks and macrotasks: 🎓 known
   - Garbage collection: 🎓 known
-  - Node.js LTS schedule : 👂 heard
+  - Node.js LTS schedule: 👂 heard
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
@@ -99,7 +99,7 @@
   - Routing: 🎓 known
   - DoS: 🎓 known
   - DDoS: 🎓 known
-  - XSS
+  - XSS: 👂 heard
   - Path traversal: 🎓 known
   - CSRF
   - DNS: 🎓 known
@@ -126,7 +126,7 @@
   - Console: 🖐️ used
   - Inspector
   - Reliability: 🎓 known
-  - Quality
+  - Quality: 🎓 known
   - Availability: 🎓 known
   - Flexibility: 👂 heard
 - Data access
@@ -147,8 +147,8 @@
   - Heap dump
   - Debugging tools: 👂 heard
   - Flame graph
-  - Memory leaks
-  - Resource leaks
+  - Memory leaks: 👂 heard
+  - Resource leaks: 👂 heard
   - Data race: 🎓 known
 - Integrations and bindings
   - Native addons: 👂 heard

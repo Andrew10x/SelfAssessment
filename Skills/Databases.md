@@ -2,19 +2,19 @@
 
 - Theory and concepts
   - Data types: 🖐️ used
-  - Performance tuning
-  - Migrations
+  - Performance tuning: 👂 heard
+  - Migrations: 🎓 known
   - Schema versioning: 👂 heard
   - Backup and recovery: 👂 heard
   - Database scalability: 👂 heard
   - Relational databases: 🖐️ used
-  - Key-value store
+  - Key-value store: 👂 heard
   - Tuple store
   - Graph databases: 👂 heard
-  - Object databases
+  - Object databases: 👂 heard
   - Column databases
   - Navigational databases
-  - Hierarchical databases
+  - Hierarchical databases: 👂 heard
   - In-memory databases
   - Inverted index
   - Data control language (DCL): 👂 heard
@@ -24,24 +24,24 @@
 - Relational
   - Entity-Relationship Diagram: 🖐️ used
   - Normal forms: 🖐️ used
-  - Indexing
+  - Indexing: 👂 heard
   - Primary keys: 🖐️ used
   - Foreign keys: 🖐️ used
   - Transactions: 🖐️ used
-  - Views
+  - Views: 🎓 known
   - Subqueries: 👂 heard
   - Stored procedures: 🖐️ used
   - SQL functions: 🖐️ used
   - Materialized views
-  - Replications
-  - Virtualization
+  - Replications: 👂 heard
+  - Virtualization: 👂 heard
 - SQL
   - `SELECT`: 🖐️ used
   - `INSERT`: 🖐️ used
   - `UPDATE`: 🖐️ used
   - `DELETE`: 🖐️ used
   - `LIMIT`
-  - `OFFSET`
+  - `OFFSET`: 🎓 known
   - `ORDER BY`: 🖐️ used
   - `GROUP BY`: 🖐️ used
   - `HAVING`: 🖐️ used
@@ -63,7 +63,7 @@
   - `FOREIGN KEY`: 🖐️ used
   - `CHECK`
   - `DEFAULT`: 🖐️ used
-  - `INDEX`
+  - `INDEX`: 🎓 known
   - `UNIQUE`: 🖐️ used
   - `GRANT`: 🖐️ used
   - `REVOKE`: 👂 heard
@@ -80,15 +80,15 @@
   - MongoDB: 👂 heard
   - Memcached
   - Riak
-  - DB2
-  - SQLite
+  - DB2: 👂 heard
+  - SQLite: 👂 heard
   - DynamoDB
   - Firebase
 - Data engineering
   - Data warehousing: 👂 heard
-  - Business intelligence
+  - Business intelligence: 👂 heard
   - Big data: 👂 heard
   - Data analysis: 👂 heard
   - AI tools
   - Cloud databases: 👂 heard
-  - Data Visualization
+  - Data Visualization: 👂 heard

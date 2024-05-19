@@ -46,16 +46,16 @@
   - compose
   - pipe
   - memoize
-  - wrapper
-  - functor
-  - monad
+  - wrapper: 👂 heard
+  - functor: 👂 heard
+  - monad: 👂 heard
   - monoid
   - generator
   - coroutine
 - Data structures
   - array: 🖐️ used
   - structure: 🖐️ used
-  - record
+  - record: 🎓 known
   - enum: 🖐️ used
   - instance: 🖐️ used
   - object: 🖐️ used
@@ -79,7 +79,7 @@
   - string parsing: 🖐️ used
 - Process & style
   - compiler: 🖐️ used
-  - transpiler
+  - transpiler: 👂 heard
   - linter: 🖐️ used
   - polyfill: 🎓 known
   - debugger: 🖐️ used
@@ -92,7 +92,7 @@
   - magic numbers: 🎓 known
   - hardcode: 🎓 known
   - complexity: 🎓 known
-  - decomposition
+  - decomposition: 👂 heard
   - spaghetti: 🎓 known
   - silver bullet: 🎓 known
   - not invented here: 🎓 known

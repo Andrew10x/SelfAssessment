@@ -31,12 +31,12 @@
   - bitwise operators: 👂 heard
   - ternary operator: 🎓 known
   - void: 🖐️ used
-  - yield
+  - yield: 🖐️ used
   - await: 🖐️ used
   - template literal
   - strict mode: 🖐️ used
-  - delete
-  - in
+  - delete: 🖐️ used
+  - in: 🖐️ used
   - super: 🖐️ used
   - Symbol: 👂 heard
   - Reflect: 👂 heard
@@ -76,7 +76,7 @@
   - null: 🖐️ used
   - Proxy
   - weak collections: 👂 heard
-  - timers
+  - timers: 🖐️ used
   - EventEmitter: 👂 heard
   - RegExp
   - Date: 🖐️ used
